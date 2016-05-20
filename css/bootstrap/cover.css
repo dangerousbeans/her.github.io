@@ -28,7 +28,7 @@ html,
 body {
   height: 100%;
   background-color: #333;
-  background: url(screenshot/seattle.jpg)
+  background: url(her/screenshot/bg.jpg)
   no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
